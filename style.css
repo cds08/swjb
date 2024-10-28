@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 
-    border: 1px solid;
+  
     
 }
 html{
@@ -83,7 +83,7 @@ li {
 }
 .main {
     width: 1000px;
-    height: 600px;
+    height: 500px;
 
     margin: 0 auto;
 
@@ -130,7 +130,7 @@ li {
 .mouse{
     font-size: 50px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 40px;
     animation: mouse 1s infinite;
 }
 @keyframes mouse {
@@ -286,7 +286,7 @@ margin-right: 10px;
     background-attachment: fixed;
 }
 .project{
-    height: 1200px;
+    height: 900px;
     margin-top: 0;
 
 }
